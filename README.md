@@ -5,3 +5,8 @@ Advent of code 2022
 ```
 go run aoc-2022/day01
 ```
+
+### Day02:
+```
+go run aoc-2022/day02
+```
